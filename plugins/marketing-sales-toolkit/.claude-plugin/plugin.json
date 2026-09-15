@@ -1,0 +1,11 @@
+{
+  "name": "marketing-sales-toolkit",
+  "version": "0.1.0",
+  "description": "Marketing and sales skills, agents, and commands — from a single social post to full multi-channel campaign orchestration.",
+  "author": {
+    "name": "venkatesh",
+    "email": "venkatesh@clms360.com"
+  },
+  "keywords": ["marketing", "sales", "copywriting", "seo", "growth", "outreach"],
+  "license": "MIT"
+}

@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "google-analytics": {
+      "command": "npx",
+      "args": ["-y", "mcp-server-google-analytics"],
+      "env": {
+        "GA_PROPERTY_ID": "<your-ga4-property-id>",
+        "GOOGLE_APPLICATION_CREDENTIALS": "<path-to-service-account-json>"
+      }
+    }
+  }
+}

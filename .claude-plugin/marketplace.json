@@ -1,0 +1,24 @@
+{
+  "name": "marketing-sales-marketplace",
+  "owner": {
+    "name": "venkatesh",
+    "email": "venkatesh@clms360.com"
+  },
+  "metadata": {
+    "description": "A Claude Code plugin marketplace of skills, subagents, commands, and MCP server configs covering marketing and sales work from basic to extreme complexity.",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "marketing-sales-toolkit",
+      "source": "./plugins/marketing-sales-toolkit",
+      "description": "Skills, agents, and commands for marketing and sales — social copy, email, SEO, outreach, landing pages, campaign strategy, competitive analysis, and full multi-channel campaign orchestration.",
+      "version": "0.1.0",
+      "author": {
+        "name": "venkatesh",
+        "email": "venkatesh@clms360.com"
+      },
+      "tags": ["marketing", "sales", "copywriting", "seo", "growth"]
+    }
+  ]
+}
