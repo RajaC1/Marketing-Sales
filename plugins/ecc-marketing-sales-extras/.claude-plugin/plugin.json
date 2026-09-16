@@ -1,0 +1,11 @@
+{
+  "name": "ecc-marketing-sales-extras",
+  "version": "0.1.0",
+  "description": "Marketing/sales skills, agents, and a command vendored from the MIT-licensed 'ecc' (Everything Claude Code) plugin marketplace, collected here for convenience. See NOTICE.md for full attribution.",
+  "author": {
+    "name": "venkatesh",
+    "email": "venkatesh@clms360.com"
+  },
+  "keywords": ["marketing", "sales", "seo", "content", "brand", "vendored"],
+  "license": "MIT"
+}

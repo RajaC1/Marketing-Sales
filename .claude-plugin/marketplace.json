@@ -19,6 +19,17 @@
         "email": "venkatesh@clms360.com"
       },
       "tags": ["marketing", "sales", "copywriting", "seo", "growth"]
+    },
+    {
+      "name": "ecc-marketing-sales-extras",
+      "source": "./plugins/ecc-marketing-sales-extras",
+      "description": "Additional marketing/sales skills, agents, and a command vendored (MIT license, full attribution in NOTICE.md) from the ecc plugin marketplace — brand voice, competitive analysis, content engine, SEO, lead intelligence, email ops, and more.",
+      "version": "0.1.0",
+      "author": {
+        "name": "venkatesh",
+        "email": "venkatesh@clms360.com"
+      },
+      "tags": ["marketing", "sales", "seo", "content", "vendored"]
     }
   ]
 }
